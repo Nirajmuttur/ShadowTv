@@ -1,19 +1,16 @@
 # ShadowTV
 
-A new Flutter project.
+It is flutter application where user can download movie/tvshow.
 
-## Getting Started
+## Functionality
 
-This project is a starting point for a Flutter application.
+- List of movies
 
-A few resources to get you started if this is your first Flutter project:
+- List of TV Shows
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Search Functionality based on movie and TV show name
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Download link for movie/tvshow
 
 
 ## ScreenShots
